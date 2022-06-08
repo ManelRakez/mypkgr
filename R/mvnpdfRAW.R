@@ -1,4 +1,4 @@
-#' Multivariate normal distribution density
+#' Density for multivariate normal distribution
 #'
 #' Description
 #'
