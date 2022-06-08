@@ -2,7 +2,7 @@
 % Please edit documentation in R/mvnpdfRAW.R
 \name{mvnpdf}
 \alias{mvnpdf}
-\title{Multivariate normal distribution density}
+\title{Density for multivariate normal distribution}
 \usage{
 mvnpdf(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRUE)
 }
